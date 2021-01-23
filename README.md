@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Production Simple Temperature Checker
+Visit the page url here: https://meliana1.github.io/test-app/ 
+to know the weather temperature (Celcius and fahrenheit) in KL or Singapore.
+
 ## Available Scripts
 
 In the project directory, you can run:
