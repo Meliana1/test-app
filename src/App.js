@@ -9,10 +9,10 @@ import {
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
-          <Route path="/result" component={Result} />
-          <Route path="/" component={Form} />
+          <Route exact path="/result" component={Result} />
+          <Route exact path="/" component={Form} />
         </Switch>
     </Router>
   );
