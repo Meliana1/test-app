@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Meliana1/test-app/static/css/main.39b11104.chunk.css",
+    "main.js": "/Meliana1/test-app/static/js/main.701f9037.chunk.js",
+    "main.js.map": "/Meliana1/test-app/static/js/main.701f9037.chunk.js.map",
+    "runtime-main.js": "/Meliana1/test-app/static/js/runtime-main.14bc0ddc.js",
+    "runtime-main.js.map": "/Meliana1/test-app/static/js/runtime-main.14bc0ddc.js.map",
+    "static/js/2.bf0dc2c8.chunk.js": "/Meliana1/test-app/static/js/2.bf0dc2c8.chunk.js",
+    "static/js/2.bf0dc2c8.chunk.js.map": "/Meliana1/test-app/static/js/2.bf0dc2c8.chunk.js.map",
+    "static/js/3.84aa5cb8.chunk.js": "/Meliana1/test-app/static/js/3.84aa5cb8.chunk.js",
+    "static/js/3.84aa5cb8.chunk.js.map": "/Meliana1/test-app/static/js/3.84aa5cb8.chunk.js.map",
+    "index.html": "/Meliana1/test-app/index.html",
+    "static/css/main.39b11104.chunk.css.map": "/Meliana1/test-app/static/css/main.39b11104.chunk.css.map",
+    "static/js/2.bf0dc2c8.chunk.js.LICENSE.txt": "/Meliana1/test-app/static/js/2.bf0dc2c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14bc0ddc.js",
+    "static/js/2.bf0dc2c8.chunk.js",
+    "static/css/main.39b11104.chunk.css",
+    "static/js/main.701f9037.chunk.js"
+  ]
+}
